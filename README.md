@@ -3,6 +3,8 @@
 
 My favorite anime movie of all time is **"Your Name"**.
 
+![alt text](https://images2.alphacoders.com/742/742320.png)
+
 ## Details:
 **Titles:** Your Name(*English*),  Kimi no Na wa(*Japanese*)
 
